@@ -1,6 +1,3 @@
-/*
-import './jquery'
-
 window.addEventListener("scroll", () => {
     if (document.documentElement.scrollTop < 10) {
         document.getElementById("navbar").classList.remove("navbar-light");
@@ -32,6 +29,3 @@ document.onload = () => {
         console.log(document.documentElement.scrollTop + " downing")
     }
 }
-
-
-*/
